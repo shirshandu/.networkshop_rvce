@@ -1,0 +1,6 @@
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\bin\webAPP.dll
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\bin\webAPP.pdb
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\obj\Debug\webAPP.dll
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\obj\Debug\webAPP.pdb
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\bin\MySql.Data.dll
+c:\users\shirshandu\documents\visual studio 2010\Projects\webAPP\webAPP\obj\Debug\webAPP.csprojResolveAssemblyReference.cache
