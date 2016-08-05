@@ -1,0 +1,11 @@
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\bin\Debug\sampleApp.exe
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\bin\Debug\sampleApp.pdb
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.Home.resources
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.Properties.Resources.resources
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.csproj.GenerateResource.Cache
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.exe
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.pdb
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.addMarks.resources
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\bin\Debug\MySql.Data.dll
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.csprojResolveAssemblyReference.cache
+C:\Users\shirshandu\documents\visual studio 2010\Projects\sampleAPP\sampleApp\obj\x86\Debug\sampleApp.report.resources
