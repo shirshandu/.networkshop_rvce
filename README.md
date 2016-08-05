@@ -2,4 +2,3 @@
 Sample Programs related to .NET workshop for juniors
 By
 Shirshandu Bhattacharjee
-Megha Gupta
